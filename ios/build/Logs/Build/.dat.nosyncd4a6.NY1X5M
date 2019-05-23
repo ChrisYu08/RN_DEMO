@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>4964D7F7-A122-490C-BFB1-CF515E7CFE45</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4964D7F7-A122-490C-BFB1-CF515E7CFE45.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>rn_app_teacher project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>rn_app_teacher</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project rn_app_teacher with scheme rn_app_teacher and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>577693414.27570796</real>
+			<key>timeStoppedRecording</key>
+			<real>577693419.54900396</real>
+			<key>title</key>
+			<string>Building project rn_app_teacher with scheme rn_app_teacher and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>4964D7F7-A122-490C-BFB1-CF515E7CFE45</string>
+		</dict>
+		<key>ED7D261A-C80E-4AE9-918A-A46E22482A1B</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>ED7D261A-C80E-4AE9-918A-A46E22482A1B.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>rn_app_teacher project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>rn_app_teacher</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project rn_app_teacher with scheme rn_app_teacher and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>577693542.24755704</real>
+			<key>timeStoppedRecording</key>
+			<real>577693543.65596402</real>
+			<key>title</key>
+			<string>Building project rn_app_teacher with scheme rn_app_teacher and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>ED7D261A-C80E-4AE9-918A-A46E22482A1B</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

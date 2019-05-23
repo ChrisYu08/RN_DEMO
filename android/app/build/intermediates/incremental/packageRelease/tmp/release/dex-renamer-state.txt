@@ -1,0 +1,4 @@
+#Mon Apr 29 11:53:43 CST 2019
+base.0=/Users/yuyue/Desktop/react native/rn_app_teacher/android/app/build/intermediates/transforms/dexMerger/release/0
+renamed.0=classes.dex
+path.0=classes.dex
